@@ -7,7 +7,7 @@
 
 - 8kyu
 - 7kyu
-  - [Find the next perfect square!](codewars/solutions/7kyu/Find_the_next_perfect_square/)
+  - [Find the next perfect square!](https://github.com/yarlsv/codewars/tree/main/solutions/7kyu/Find_the_next_perfect_square)
 - 6kyu
 - 5kyu
 - 4kyu
