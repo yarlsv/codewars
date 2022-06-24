@@ -11,3 +11,8 @@
 > 121 --> 144
 > 625 --> 676
 > 114 --> -1 since 114 is not a perfect square
+
+
+## Решение
+
+[Kata solution](https://github.com/yarlsv/codewars/blob/main/solutions/7kyu/Find_the_next_perfect_square/NumberFun.java)
