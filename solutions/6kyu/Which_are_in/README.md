@@ -10,4 +10,4 @@
 
 ## Решение
 
-Kata solution
+[Kata solution](https://github.com/yarlsv/codewars/blob/main/solutions/6kyu/Which_are_in/WhichAreIn.java)
