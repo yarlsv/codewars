@@ -17,6 +17,7 @@
 
 - 5kyu
   - [Direction Reduction](https://github.com/yarlsv/codewars/tree/main/solutions/5kyu/Directions%20Reduction)
+  - [Human readable time](https://github.com/yarlsv/codewars/tree/main/solutions/5kyu/Human_Readable_Time)
  
 - 4kyu
 
