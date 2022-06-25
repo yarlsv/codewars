@@ -9,3 +9,5 @@
 Максимальное время не может превышать 359 999
 
 ## Решение
+
+[Kata solution](https://github.com/yarlsv/codewars/blob/main/solutions/5kyu/Human_Readable_Time/HumanReadableTime.java)
