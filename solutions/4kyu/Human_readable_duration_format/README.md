@@ -20,4 +20,4 @@
 
 ## Решение
 
-[Kata SOlution]()
+[Kata SOlution](https://github.com/yarlsv/codewars/blob/main/solutions/4kyu/Human_readable_duration_format/TimeFormatter.java)
